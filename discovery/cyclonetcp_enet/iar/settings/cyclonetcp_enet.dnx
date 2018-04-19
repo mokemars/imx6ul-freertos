@@ -19,7 +19,7 @@
         <LeaveTargetRunning>_ 0</LeaveTargetRunning>
     </JLinkDriver>
     <DebugChecksum>
-        <Checksum>2924832925</Checksum>
+        <Checksum>383034146</Checksum>
     </DebugChecksum>
     <Exceptions>
         <StopOnUncaught>_ 0</StopOnUncaught>
@@ -47,10 +47,10 @@
         <mode>0</mode>
     </DisassembleMode>
     <Breakpoints2>
-        <Bp0>_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\..\..\..\..\middleware\CycloneTCP\cyclone_tcp\drivers\wifi\bcm4xxxx_driver.c}.134.2" 0 0 1 "" 0 "" 0</Bp0>
-        <Bp1>_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\..\..\..\..\middleware\CycloneTCP\third_party\broadcom\wiced_sdk\wiced\wwd\internal\wwd_sdpcm.c}.1096.5" 0 0 1 "" 0 "" 0</Bp1>
-        <Bp2>_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\..\..\..\..\middleware\CycloneTCP\third_party\broadcom\wiced_sdk\wiced\wwd\internal\wwd_sdpcm.c}.1091.5" 0 0 1 "" 0 "" 0</Bp2>
-        <Bp3>_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\..\..\..\..\middleware\CycloneTCP\cyclone_tcp\drivers\wifi\bcm4xxxx_driver.c}.158.1" 0 0 1 "" 0 "" 0</Bp3>
+        <Bp0>_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\..\..\..\middleware\CycloneTCP\cyclone_tcp\drivers\wifi\bcm4xxxx_driver.c}.134.2" 0 0 1 "" 0 "" 0</Bp0>
+        <Bp1>_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\..\..\..\middleware\CycloneTCP\third_party\broadcom\wiced_sdk\wiced\wwd\internal\wwd_sdpcm.c}.1096.5" 0 0 1 "" 0 "" 0</Bp1>
+        <Bp2>_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\..\..\..\middleware\CycloneTCP\third_party\broadcom\wiced_sdk\wiced\wwd\internal\wwd_sdpcm.c}.1091.5" 0 0 1 "" 0 "" 0</Bp2>
+        <Bp3>_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\..\..\..\middleware\CycloneTCP\cyclone_tcp\drivers\wifi\bcm4xxxx_driver.c}.158.1" 0 0 1 "" 0 "" 0</Bp3>
         <Count>4</Count>
     </Breakpoints2>
     <Aliases>

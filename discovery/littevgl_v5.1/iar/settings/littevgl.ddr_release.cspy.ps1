@@ -23,9 +23,9 @@ param([String]$debugfile = "");
 
 if ($debugfile -eq "")
 {
-& "D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\common\bin\cspybat" -f "D:\nxp\DISCOVERY_MCIM6UL\discovery\littevgl_v5.1\iar\settings\littevgl.ddr_release.general.xcl" --backend -f "D:\nxp\DISCOVERY_MCIM6UL\discovery\littevgl_v5.1\iar\settings\littevgl.ddr_release.driver.xcl" 
+& "D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\common\bin\cspybat" -f "E:\imx6ul-freertos\discovery\littevgl_v5.1\iar\settings\littevgl.ddr_release.general.xcl" --backend -f "E:\imx6ul-freertos\discovery\littevgl_v5.1\iar\settings\littevgl.ddr_release.driver.xcl" 
 }
 else
 {
-& "D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\common\bin\cspybat" -f "D:\nxp\DISCOVERY_MCIM6UL\discovery\littevgl_v5.1\iar\settings\littevgl.ddr_release.general.xcl" --debug_file=$debugfile --backend -f "D:\nxp\DISCOVERY_MCIM6UL\discovery\littevgl_v5.1\iar\settings\littevgl.ddr_release.driver.xcl" 
+& "D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\common\bin\cspybat" -f "E:\imx6ul-freertos\discovery\littevgl_v5.1\iar\settings\littevgl.ddr_release.general.xcl" --debug_file=$debugfile --backend -f "E:\imx6ul-freertos\discovery\littevgl_v5.1\iar\settings\littevgl.ddr_release.driver.xcl" 
 }

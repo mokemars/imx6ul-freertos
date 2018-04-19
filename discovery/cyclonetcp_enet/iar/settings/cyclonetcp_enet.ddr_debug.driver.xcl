@@ -2,7 +2,7 @@
 
 "--cpu=Cortex-A7" 
 
-"--jlink_script_file=D:\nxp\DISCOVERY_MCIM6UL\discovery\cyclonetcp_enet\iar\..\ddr_init.jlinkscript" 
+"--jlink_script_file=E:\imx6ul-freertos\discovery\cyclonetcp_enet\iar\..\ddr_init.jlinkscript" 
 
 "--fpu=VFPv4Neon" 
 

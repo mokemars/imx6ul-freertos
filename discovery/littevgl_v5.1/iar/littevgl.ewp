@@ -348,10 +348,10 @@
                     <state>$PROJ_DIR$\..</state>
                     <state>$PROJ_DIR$\..\..\..</state>
                     <state>$PROJ_DIR$\..\..\..\rtos\freertos_9.0.0/Source</state>
-                    <state>$PROJ_DIR$\..\..\..\..\SDK_2.2_MCIM6UL\devices\MCIMX6G3\drivers</state>
+                    <state>$PROJ_DIR$\..\..\..\devices\MCIMX6G3</state>
                     <state>$PROJ_DIR$\..\..\..\platform\utilities\debug_console</state>
                     <state>$PROJ_DIR$\..\..\..\devices\MCIMX6G3\utilities</state>
-                    <state>$PROJ_DIR$\..\..\..\devices\MCIMX6G3</state>
+                    <state>$PROJ_DIR$\..\..\..\devices\MCIMX6G3\drivers</state>
                     <state>$PROJ_DIR$\..\..\..\middleware\littlevgl\lv_drivers</state>
                     <state>$PROJ_DIR$\..\..\..\middleware\littlevgl\lv_drivers\display</state>
                     <state>$PROJ_DIR$\..\..\..\middleware\littlevgl\lv_drivers\indev</state>
@@ -1392,10 +1392,10 @@
                     <state>$PROJ_DIR$\..</state>
                     <state>$PROJ_DIR$\..\..\..</state>
                     <state>$PROJ_DIR$\..\..\..\rtos\freertos_9.0.0/Source</state>
-                    <state>$PROJ_DIR$\..\..\..\..\SDK_2.2_MCIM6UL\devices\MCIMX6G3\drivers</state>
+                    <state>$PROJ_DIR$\..\..\..\devices\MCIMX6G3</state>
                     <state>$PROJ_DIR$\..\..\..\platform\utilities\debug_console</state>
                     <state>$PROJ_DIR$\..\..\..\devices\MCIMX6G3\utilities</state>
-                    <state>$PROJ_DIR$\..\..\..\devices\MCIMX6G3</state>
+                    <state>$PROJ_DIR$\..\..\..\devices\MCIMX6G3\drivers</state>
                     <state>$PROJ_DIR$\..\..\..\middleware\littlevgl\lv_drivers</state>
                     <state>$PROJ_DIR$\..\..\..\middleware\littlevgl\lv_drivers\display</state>
                     <state>$PROJ_DIR$\..\..\..\middleware\littlevgl\lv_drivers\indev</state>
@@ -2437,10 +2437,10 @@
                     <state>$PROJ_DIR$\..</state>
                     <state>$PROJ_DIR$\..\..\..</state>
                     <state>$PROJ_DIR$\..\..\..\rtos\freertos_9.0.0/Source</state>
-                    <state>$PROJ_DIR$\..\..\..\..\SDK_2.2_MCIM6UL\devices\MCIMX6G3\drivers</state>
+                    <state>$PROJ_DIR$\..\..\..\devices\MCIMX6G3</state>
                     <state>$PROJ_DIR$\..\..\..\platform\utilities\debug_console</state>
                     <state>$PROJ_DIR$\..\..\..\devices\MCIMX6G3\utilities</state>
-                    <state>$PROJ_DIR$\..\..\..\devices\MCIMX6G3</state>
+                    <state>$PROJ_DIR$\..\..\..\devices\MCIMX6G3\drivers</state>
                     <state>$PROJ_DIR$\..\..\..\middleware\littlevgl\lv_drivers</state>
                     <state>$PROJ_DIR$\..\..\..\middleware\littlevgl\lv_drivers\display</state>
                     <state>$PROJ_DIR$\..\..\..\middleware\littlevgl\lv_drivers\indev</state>
@@ -3481,10 +3481,10 @@
                     <state>$PROJ_DIR$\..</state>
                     <state>$PROJ_DIR$\..\..\..</state>
                     <state>$PROJ_DIR$\..\..\..\rtos\freertos_9.0.0/Source</state>
-                    <state>$PROJ_DIR$\..\..\..\..\SDK_2.2_MCIM6UL\devices\MCIMX6G3\drivers</state>
+                    <state>$PROJ_DIR$\..\..\..\devices\MCIMX6G3</state>
                     <state>$PROJ_DIR$\..\..\..\platform\utilities\debug_console</state>
                     <state>$PROJ_DIR$\..\..\..\devices\MCIMX6G3\utilities</state>
-                    <state>$PROJ_DIR$\..\..\..\devices\MCIMX6G3</state>
+                    <state>$PROJ_DIR$\..\..\..\devices\MCIMX6G3\drivers</state>
                     <state>$PROJ_DIR$\..\..\..\middleware\littlevgl\lv_drivers</state>
                     <state>$PROJ_DIR$\..\..\..\middleware\littlevgl\lv_drivers\display</state>
                     <state>$PROJ_DIR$\..\..\..\middleware\littlevgl\lv_drivers\indev</state>

@@ -19,7 +19,7 @@
         <LeaveTargetRunning>_ 0</LeaveTargetRunning>
     </JLinkDriver>
     <DebugChecksum>
-        <Checksum>1033672854</Checksum>
+        <Checksum>2047365983</Checksum>
     </DebugChecksum>
     <Exceptions>
         <StopOnUncaught>_ 0</StopOnUncaught>
@@ -61,10 +61,10 @@
         <Bp1>_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\..\..\..\SDK_2.2_MCIM6UL\devices\MCIMX6G2\drivers\fsl_uart_freertos.c}.296.9" 0 0 1 "" 0 "" 0</Bp1>
         <Bp2>_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\..\..\..\SDK_2.2_MCIM6UL\devices\MCIMX6G2\drivers\fsl_uart_freertos.c}.293.5" 0 0 1 "" 0 "" 0</Bp2>
         <Bp3>_ 0 "EMUL_CODE" "{D:\nxp\SDK_2.2_MCIM6UL\devices\MCIMX6G2}.1219.3" 0 0 1 "" 0 "" 0</Bp3>
-        <Bp4>_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\..\..\..\..\middleware\littlevgl\lv_examples\lv_tests\lv_test_group\lv_test_group.c}.202.1" 0 0 1 "" 0 "" 0</Bp4>
-        <Bp5>_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\..\..\..\..\middleware\littlevgl\lvgl\lv_misc\lv_fs.c}.395.4" 0 0 1 "" 0 "" 0</Bp5>
-        <Bp6>_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\..\..\..\..\middleware\littlevgl\lvgl\lv_objx\lv_btn.c}.318.13" 0 0 1 "" 0 "" 0</Bp6>
-        <Bp7>_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\..\..\..\..\middleware\littlevgl\lv_examples\lv_tests\lv_test_objx\lv_test_list\lv_test_list.c}.94.5" 0 0 1 "" 0 "" 0</Bp7>
+        <Bp4>_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\..\..\..\middleware\littlevgl\lv_examples\lv_tests\lv_test_group\lv_test_group.c}.202.1" 0 0 1 "" 0 "" 0</Bp4>
+        <Bp5>_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\..\..\..\middleware\littlevgl\lvgl\lv_misc\lv_fs.c}.395.4" 0 0 1 "" 0 "" 0</Bp5>
+        <Bp6>_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\..\..\..\middleware\littlevgl\lvgl\lv_objx\lv_btn.c}.318.13" 0 0 1 "" 0 "" 0</Bp6>
+        <Bp7>_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\..\..\..\middleware\littlevgl\lv_examples\lv_tests\lv_test_objx\lv_test_list\lv_test_list.c}.94.5" 0 0 1 "" 0 "" 0</Bp7>
         <Bp8>_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\..\..\..\SDK_2.2_MCIM6UL\devices\MCIMX6G3\iar\startup_MCIMX6G3.s}.62.1" 0 0 1 "" 0 "" 0</Bp8>
         <Count>9</Count>
     </Breakpoints2>

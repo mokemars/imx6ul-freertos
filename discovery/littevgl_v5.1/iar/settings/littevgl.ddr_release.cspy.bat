@@ -25,7 +25,7 @@ if not "%~1" == "" goto debugFile
 
 @echo on 
 
-"D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\common\bin\cspybat" -f "D:\nxp\DISCOVERY_MCIM6UL\discovery\littevgl_v5.1\iar\settings\littevgl.ddr_release.general.xcl" --backend -f "D:\nxp\DISCOVERY_MCIM6UL\discovery\littevgl_v5.1\iar\settings\littevgl.ddr_release.driver.xcl" 
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\common\bin\cspybat" -f "E:\imx6ul-freertos\discovery\littevgl_v5.1\iar\settings\littevgl.ddr_release.general.xcl" --backend -f "E:\imx6ul-freertos\discovery\littevgl_v5.1\iar\settings\littevgl.ddr_release.driver.xcl" 
 
 @echo off 
 goto end 
@@ -34,7 +34,7 @@ goto end
 
 @echo on 
 
-"D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\common\bin\cspybat" -f "D:\nxp\DISCOVERY_MCIM6UL\discovery\littevgl_v5.1\iar\settings\littevgl.ddr_release.general.xcl" "--debug_file=%~1" --backend -f "D:\nxp\DISCOVERY_MCIM6UL\discovery\littevgl_v5.1\iar\settings\littevgl.ddr_release.driver.xcl" 
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\common\bin\cspybat" -f "E:\imx6ul-freertos\discovery\littevgl_v5.1\iar\settings\littevgl.ddr_release.general.xcl" "--debug_file=%~1" --backend -f "E:\imx6ul-freertos\discovery\littevgl_v5.1\iar\settings\littevgl.ddr_release.driver.xcl" 
 
 @echo off 
 :end

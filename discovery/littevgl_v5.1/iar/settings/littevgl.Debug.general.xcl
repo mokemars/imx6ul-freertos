@@ -2,7 +2,7 @@
 
 "D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\armjlink2.dll" 
 
-"D:\nxp\DISCOVERY_MCIM6UL\discovery\littevgl_v5.1\iar\debug\littevgl.out" 
+"E:\imx6ul-freertos\discovery\littevgl_v5.1\iar\debug\littevgl.out" 
 
 --plugin "D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\armbat.dll" 
 

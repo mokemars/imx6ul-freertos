@@ -825,7 +825,7 @@
                 </option>
                 <option>
                     <name>IlinkAdditionalLibs</name>
-                    <state>$TOOLKIT_DIR$\..\..\..\..\nxp\DISCOVERY_MCIM6UL\discovery\discovery_core\lib\ddr_debug\discovery_core.a</state>
+                    <state>$PROJ_DIR$\..\..\discovery_core\lib\ddr_debug\discovery_core.a</state>
                 </option>
                 <option>
                     <name>IlinkOverrideProgramEntryLabel</name>
