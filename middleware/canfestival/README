@@ -1,0 +1,23 @@
+CanFestival 3.0 RC3
+
+This is third candidate for 3.0 release of CanFestival.
+
+Please read PDF Manual :
+CanFestival-3/objdictgen/doc/manual_en.pdf
+
+Main changes since RC2:
+        - Native Windows target with Visual Studio.
+        - Enhanced Cygwin support (multithread)
+        - Dynamically loadable CAN interface DLL or SO.
+        - Dynamic Callbacks declaration in user application.
+        - Enhanced TestMasterSlave example (with SDO callbacks and OD access examples).
+        - Now, install make target works.
+        - Code clean-up. Dead or untested code removed.
+
+Still to be done before release:
+        - Test Xenomai support against last changes
+        - Test HCS12 support against last changes
+        - Create a C++ wrapper over actual API with CanOpen node and proxy classes.
+        - Swig and/or pyinline based python wrapper with CanOpen node classes.
+        - (re)implement LED, LSS and NVRAM support.
+
